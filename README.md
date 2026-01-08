@@ -90,5 +90,3 @@ Highly anthropized or environmentally constrained habitats show **lower evenness
 
 * R (`vegan`, `indicspecies`, `dplyr`)
 * Multivariate ecological analysis
-* ou une **version légèrement plus “recherche”** (genre pré-article / proposal friendly),
-* ou adapter le ton pour un **jury de master / bourse**.
