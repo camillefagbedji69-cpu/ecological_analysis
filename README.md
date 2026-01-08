@@ -1,4 +1,4 @@
-# Phytoecological Classification & Indicator Species Analysis : Biosphere Reserve of Mono, South-West Benin**
+# Phytoecological Classification & Indicator Species Analysis : Biosphere Reserve of Mono, South-West Benin
 
 ## 📌 Context
 
